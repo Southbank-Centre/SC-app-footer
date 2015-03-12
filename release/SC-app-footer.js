@@ -8,4 +8,4 @@
  * Provides the app with the ability to display footer content and features
  */
 angular
-  .module('SC-app-footer');
+  .module('SC-app-footer', []);
